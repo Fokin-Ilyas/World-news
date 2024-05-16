@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "US drug overdose deaths decreased in 2023 for the first time in five years - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNS8xNS9oZWFsdGgvb3ZlcmRvc2UtZGVhdGhzLWRlY3JlYXNlLTIwMjMvaW5kZXguaHRtbNIBR2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDUvMTUvaGVhbHRoL292ZXJkb3NlLWRlYXRocy1kZWNyZWFzZS0yMDIz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-15T14:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "Amy Leona Havin",
+      "title": "Restock your N95, KN95 face masks as new COVID-19 variant 'FLiRT' rises - The Seattle Times",
+      "description": "Whether you want to try and protect yourself against the new variant, or want to mask up in groups during summer events, there’s no time like the present to re-up your home supply of face masks.",
+      "url": "https://www.oregonlive.com/shopping-deals/2024/05/restock-your-n95-kn95-face-masks-as-new-covid-19-variant-flirt-rises.html",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2021/02/tzr-ford-masks-1e2c5464-6ac8-11eb-ba56-d7e2c8defa31-2048x1365-1.jpg?d=780x501",
+      "publishedAt": "2024-05-15T13:29:36Z",
+      "content": "Just when it seemed that four years since the pandemic had been long enough to be rid of the COVID-19 virus,a new variant called FLiRT has shown up just in time for summer. Now, some are considering … [+4209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Highly Pathogenic H5N1 Avian Flu Detected in New York City Wild Birds - SciTechDaily",
+      "description": "NYC wild birds carry H5N1 avian influenza, as revealed by a study involving local students. The research highlights urban zoonotic risks and the role of wildlife centers in surveillance, stressing the need for public awareness and safe wildlife handling. Acco…",
+      "url": "https://scitechdaily.com/highly-pathogenic-h5n1-avian-flu-detected-in-new-york-city-wild-birds/",
+      "urlToImage": "https://scitechdaily.com/images/NYC-Seagull.jpg",
+      "publishedAt": "2024-05-15T13:00:33Z",
+      "content": "A recent study published in the Journal of Virology reveals that a small number of wild birds in New York City carry highly pathogenic H5N1 avian influenza.\r\nNYC wild birds carry H5N1 avian influenza… [+3731 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Teddy Amenabar",
+      "title": "Advice for picky eaters: Liking a variety of foods linked with brain health - The Washington Post",
+      "description": "Rather than focusing on specific diets, the scientists examined the link between the foods individuals liked and disliked and their mental health and cognition.",
+      "url": "https://www.washingtonpost.com/wellness/2024/05/15/balanced-diet-mental-health-brain/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6V5PCU5YII6TA7DIX663DUNFY.jpg&w=1440",
+      "publishedAt": "2024-05-15T12:36:08Z",
+      "content": "Older people who arent picky eatersappear to have better brain health than those who prefer more limited diets, according to a large study of British adults.\r\nThe research tracked the dietary prefere… [+261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PsyPost"
+      },
+      "author": "Eric W. Dolan",
+      "title": "Scientists uncover a surprising conflict between important cognitive abilities - PsyPost",
+      "description": "New research published in npj Science of Learning reveals a surprising competitive relationship between implicit statistical learning and executive functions, suggesting that excelling in one may diminish capabilities in the other.",
+      "url": "https://www.psypost.org/scientists-uncover-a-surprising-conflict-between-important-cognitive-abilities/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/05/brain-network.jpg",
+      "publishedAt": "2024-05-15T10:02:00Z",
+      "content": "Scientists have discovered that individuals who are particularly good at learning patterns and sequences tend to struggle with tasks requiring active thinking and decision-making. Their new research,… [+7493 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Nathaniel Weixel",
+      "title": "How fast is bird flu spreading in US cows? ‘We have no idea’ - The Hill",
+      "description": "Avian flu is spreading rapidly among cattle, but public health and infectious disease experts are concerned the United States is too limited in its testing, leaving an incomplete picture of the virus’s spread.   The threat to the general public is currently l…",
+      "url": "https://thehill.com/policy/healthcare/4657340-bird-flu-cows-spread-no-idea/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/05/avian-flu_weixel_051024_AdobeStock.jpg?w=1280",
+      "publishedAt": "2024-05-15T10:00:00Z",
+      "content": "Skip to content\r\nAvian flu is spreading rapidly among cattle, but public health and infectious disease experts are concerned the United States is too limited in its testing, leaving an incomplete pic… [+5577 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacqueline Howard",
+      "title": "New screening tool can identify preeclampsia risk sooner, test maker says - CNN",
+      "description": "A new blood test can be performed in a pregnant person’s first trimester to help assess their risk of developing preeclampsia, a potentially life-threatening pregnancy complication.",
+      "url": "https://www.cnn.com/2024/05/15/health/preeclampsia-risk-first-trimester-test-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-841956208.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-15T10:00:00Z",
+      "content": "A new blood test can be performed in a pregnant personsfirst trimester to help assess their risk of developing preeclampsia, a potentially life-threatening pregnancy complication.\r\nItsthe first and o… [+10914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Caroline Bologna",
+      "title": "8 Things Knee Doctors Say You Should Never, Ever Do - HuffPost",
+      "description": "If you want to lower your risk of pain and injury, avoid these behaviors.",
+      "url": "https://www.huffpost.com/entry/knee-doctor-tips_l_663bab9de4b0c38baf0ea6e6",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6643b8202500003300b215c4.jpeg?cache=bhVJe7capd&ops=1200_630",
+      "publishedAt": "2024-05-15T09:45:00Z",
+      "content": "There are certain activities and habits you should avoid if you want to maintain your knee health.\r\nPeople often forget what a big role knees play in mobility and everyday life until they start to hu… [+11609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ScienceAlert",
+      "title": "New Gel Could Neutralize Alcohol's Effects Before a Hangover Hits - ScienceAlert",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vbmV3LWdlbC1jb3VsZC1uZXV0cmFsaXplLWFsY29ob2xzLWVmZmVjdHMtYmVmb3JlLWEtaGFuZ292ZXItaGl0c9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-15T07:38:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Research and Markets",
+      "title": "Global Alzheimer's Disease Biomarkers Market Analysis, 2018-2028 - Revolutionary Neuroimaging and Biofluid Analysis Techniques Propel Alzheimer's Diagnosis and Management with AI Precision - Yahoo Finance",
+      "description": "Global Alzheimer’s Disease Biomarkers Market Global Alzheimer’s Disease Biomarkers Market Dublin, May 15, 2024 (GLOBE NEWSWIRE) -- The \"Alzheimer's Disease...",
+      "url": "https://finance.yahoo.com/news/global-alzheimers-disease-biomarkers-market-072300568.html",
+      "urlToImage": "https://media.zenfs.com/en/globenewswire.com/e5ef0e68308f45ec61c74f0de11659d8",
+      "publishedAt": "2024-05-15T07:23:00Z",
+      "content": "Global Alzheimers Disease Biomarkers Market\r\nGlobal Alzheimers Disease Biomarkers Market\r\nDublin, May 15, 2024 (GLOBE NEWSWIRE) -- The \"Alzheimer's Disease Biomarkers Market - Global Industry Size, S… [+3903 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post ",
+      "title": "Australian doctor Richard Scolyer cancer-free year after terminal diagnosis - New York Post ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA1LzE1L2xpZmVzdHlsZS9hdXN0cmFsaWFuLWRvY3Rvci1yaWNoYXJkLXNjb2x5ZXItY2FuY2VyLWZyZWUteWVhci1hZnRlci10ZXJtaW5hbC1kaWFnbm9zaXMv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-15T06:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "How You Were Born Could Change Your Response to Life-Saving Medicine - ScienceAlert",
+      "description": "The way a newborn is delivered could change the way their immune system later responds to life-saving medicine.",
+      "url": "https://www.sciencealert.com/how-you-were-born-could-change-your-response-to-life-saving-medicine",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/NewbornImmuneSystem.jpg",
+      "publishedAt": "2024-05-15T04:26:25Z",
+      "content": "The way a newborn is delivered could change the way their immune system later responds to life-saving medicine.\r\nA new study from China suggests the route from womb to world, whether vaginal or surgi… [+4227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "The Conversation",
+      "title": "Surprising Study Finds Men With Low Testosterone More Likely to Die Early - ScienceAlert",
+      "description": "It has long been thought that testosterone shortens men's lives.",
+      "url": "https://www.sciencealert.com/surprising-study-finds-men-with-low-testosterone-more-likely-to-die-early",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/OlderManDoingPullupsOnBar.jpg",
+      "publishedAt": "2024-05-15T03:22:43Z",
+      "content": "It has long been thought that testosterone shortens men's lives. Studies on neutered animals and Korean eunuchs seem to confirm this. However, a new study, published in the Annals of Internal Medicin… [+4701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Genetic Cause of Rare Neurological Disease Found After 25-Year Search - ScienceAlert",
+      "description": "You might not have heard of spinocerebellar ataxia type 4 (SCA4), as it's an incredibly rare condition – but after a quarter of a century of looking, the genetic coding behind SCA4 has now been identified, potentially opening up new treatment options...",
+      "url": "https://www.sciencealert.com/genetic-cause-of-rare-neurological-disease-found-after-25-year-search",
+      "urlToImage": "https://www.sciencealert.com/images/2024/05/GenomeScan.jpg",
+      "publishedAt": "2024-05-15T03:01:44Z",
+      "content": "You might not have heard of spinocerebellar ataxia type 4 (SCA4), as it's an incredibly rare condition but after a quarter of a century of looking, the genetic coding behind SCA4 has now been identif… [+2929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Millions more middle-aged are obese, study suggests - BBC.com",
+      "description": "Using a new, lower BMI cut-off for obesity would give a truer picture of who is affected, researchers say.",
+      "url": "https://www.bbc.com/news/health-69009787",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6702/production/_133307362_gettyimages-113743815.jpg",
+      "publishedAt": "2024-05-15T00:31:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Jerusalem Post",
+      "title": "Research suggests new paths for combined therapeutic strategies - The Jerusalem Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtODAxMTkx0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-05-14T23:57:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Clare Watson",
+      "title": "Study Finds Sleep May Not Flush Toxins From The Brain After All - ScienceAlert",
+      "description": "A new brain imaging study in mice suggests that sleep may not help flush out the brain of toxins and everyday waste products, challenging what scientists have called a 'Nobel-prize winning idea' of neuroscience.",
+      "url": "https://www.sciencealert.com/study-finds-sleep-may-not-flush-toxins-from-the-brain-after-all",
+      "urlToImage": "https://www.sciencealert.com/images/2023/09/person_cant_sleep.jpg",
+      "publishedAt": "2024-05-14T23:01:21Z",
+      "content": "A new brain imaging study in mice suggests that sleep may not help flush out the brain of toxins and everyday waste products, challenging what scientists have called a 'Nobel-prize winning idea' of n… [+3920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOAT New Mexico"
+      },
+      "author": "Nick Catlin",
+      "title": "How diet plays a role in prostate cancer risk - Albuquerque - KOAT New Mexico",
+      "description": "The American Cancer Society estimates one in eight men will be diagnosed with prostate cancer in their lifetime.",
+      "url": "https://www.koat.com/article/healthy-diet-impact-prostate-cancer-risk/60793297",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/19018d56-0a40-4a6e-956e-4327a7c85bd0/2d174178-01fb-4617-9f7c-3910d9f9fa60.jpg?crop=0.775xw:0.774xh;0.137xw,0&resize=1200:*",
+      "publishedAt": "2024-05-14T22:42:00Z",
+      "content": "Prostate cancer is the second-leading cause of cancer deaths in men.\r\nThe most fatal cancer for U.S. men is lung cancer, but prostate cancer is still the most common cancer diagnosis for the group.\r\n… [+1428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "People with HIV can be sperm and egg donors - BBC.com",
+      "description": "UK laws have changed to keep up with the science that shows it can be safe.",
+      "url": "https://www.bbc.com/news/articles/c51nn66e415o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a9d/live/78eb2a50-11e7-11ef-a40c-a15b02a51ff9.jpg",
+      "publishedAt": "2024-05-14T22:39:04Z",
+      "content": null
+    }
+  ]
+}

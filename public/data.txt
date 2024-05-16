@@ -1,0 +1,13 @@
+{
+-"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": "Graham Kates, Katrina Kaufman",
+"title": "Michael Cohen's testimony in Trump trial enters its 3rd day",
+"description": "The fifth week of Donald Trump's criminal trial in New York will end as it began: with the former president's ex-lawyer Michael Cohen on the stand.",
+"url": "https://www.cbsnews.com/live-updates/michael-cohen-trump-trial-testimony-day-3/",
+"urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/14/38573962-18ca-471c-b15a-5c68f945ec86/thumbnail/1200x630g2/afb1a9e39cb660e2ff870ec459155f9e/gettyimages-2152350113.jpg?v=fc8d024e10db3fe720fa4908dcd79bea",
+"publishedAt": "2024-05-16T10:00:10+00:00",
+"content": "The fifth week of Donald Trump's criminal trial in New York will end as it began: with the former president's ex-lawyer Michael Cohen on the stand.\r\nCohen, the key witness in the case against Trump, … [+1926 chars]"
+}

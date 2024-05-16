@@ -1,0 +1,10 @@
+.wrapper-cards {
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 90%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 0 8px;
+}

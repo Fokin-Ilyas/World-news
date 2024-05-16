@@ -1,0 +1,15 @@
+.tab {
+    text-align: center;
+    min-width: 100px;
+    min-height: 40px;
+    background-color: #ececec;
+    border-radius: 30px;
+    padding: 0 20px;
+    transition: all 0.5s;
+    font-weight: 400;
+}
+
+.tab:hover {
+    background-color: #cecdce;
+    transition: all 0.4s;
+}

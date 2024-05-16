@@ -1,0 +1,27 @@
+.card_2 {
+    width: 350px;
+    min-height: 480px;
+    border-radius: 10px;
+    margin-bottom: 24px;
+}
+
+.card_2 img {
+    border-radius: 10px 10px 0 0;
+    height: 234px;
+}
+
+.card_2-name {
+    margin-top: 15px;
+}
+
+.card_2-title {
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.card_2-description {
+    margin-top: 25px;
+    font-size: 16px;
+    opacity: .7;
+}
